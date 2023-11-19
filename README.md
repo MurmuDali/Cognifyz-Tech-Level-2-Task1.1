@@ -1,3 +1,13 @@
+
+Task: 
+Use a front-end framework like Bulma
+or UIKit to create a responsive card
+component with an image and text.
+
+Live Deployed Link:
+https://jolly-starburst-138735.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
